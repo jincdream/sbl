@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Clipboard History",
+		"Emmet",
+		"Git",
+		"IndentGuides",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"JsFormat",
+		"JsMinifier",
+		"Package Control",
+		"Prefixr",
+		"SublimeLinter",
+		"Tag",
+		"YUI Compressor"
+	]
+}
